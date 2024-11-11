@@ -1,6 +1,8 @@
 ![Background do repositório](bg.jpg)
 
-Quer contribuir com o repositório? Faça um fork e abra um Pull request 👊🏽
+Este repositório reúne links úteis e recursos essenciais para desenvolvedores frontend. Aqui você encontrará referências de bibliotecas, frameworks, tutoriais, ferramentas, e dicas que podem agilizar e aprimorar seu trabalho no desenvolvimento de interfaces. O objetivo é ser uma fonte prática de consulta para facilitar o aprendizado e o desenvolvimento de soluções frontend.
+
+Contribuições são bem-vindas! Se você conhece um recurso interessante, sinta-se à vontade para abrir um pull request.
 
 ## Indice
 
@@ -510,80 +512,6 @@ Link | Descrição | Grátis |
 
 ## Contribuidores
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yurimutti">
-        <img src="https://avatars.githubusercontent.com/u/66539821?v=4" width="100px;" alt="Foto do avatar de Yuri Mutti"/><br>
-        <sub>
-          <b>Yuri Mutti</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RennanSilvaCosta">
-        <img src="https://avatars.githubusercontent.com/u/45303056?v=4" width="100px;" alt="Foto do avatar de Renan Silva"/><br>
-        <sub>
-          <b>Rennan Silva</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/caiovlima">
-        <img src="https://avatars0.githubusercontent.com/u/31970285" width="100px;" alt="Foto do avatar de Caio Lima"/><br>
-        <sub>
-          <b>Caio Lima</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/matheusdoedev">
-        <img src="https://avatars.githubusercontent.com/u/58111490?v=4" width="100px;" alt="Foto do Matheus do É Santos"/><br>
-        <sub>
-          <b>Matheus do É Santos</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/edurezende10">
-        <img src="https://avatars.githubusercontent.com/u/36525298?v=4" width="100px;" alt="Foto do Eduardo Rezende"/><br>
-        <sub>
-          <b>Eduardo Rezende</b>
-        </sub>
-      </a><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AdelmoMenezes123">
-        <img src="https://avatars.githubusercontent.com/u/44556097?v=4" width="100px;" alt="Foto do Adelmo Menezes"/><br>
-          <b>Adelmo Menezes</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/adeonir">
-        <img src="https://github.com/adeonir.png" width="100px;" alt="Foto do Adeonir Kohl"/><br>
-        <sub>
-          <b>Adeonir Kohl</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Both-Eritons">
-        <img src="https://avatars.githubusercontent.com/u/64214553?v=4" width="100px;" alt="Foto do Eritons"/><br>
-        <sub>
-          <b>Eritons</b>
-        </sub>
-      </a><br>
-    </td>
-   <td align="center">
-      <a href="https://github.com/LaisBordallo">
-        <img src="https://avatars.githubusercontent.com/u/142429349?v=4" width="100px;" alt="Foto do avatar da Laís Pinheiro"/><br>
-        <sub>
-          <b>Laís Pinheiro</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/yurimutti/recursos-frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yurimutti/recursos-frontend" />
+</a>
