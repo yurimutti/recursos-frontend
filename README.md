@@ -4,6 +4,19 @@ Este repositório reúne links úteis e recursos essenciais para desenvolvedores
 
 Contribuições são bem-vindas! Se você conhece um recurso interessante, sinta-se à vontade para abrir um pull request.
 
+## 🚀 **Junte-se à nossa Comunidade!**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GIrZlmjoAOqHMYeodJAcQs)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GwJzaaX7)
+
+---
+
+🔥 **Conecte-se e colabore com outros desenvolvedores!**  
+- 💬 **WhatsApp**: Tire dúvidas rápidas e troque ideias.  
+- 🎮 **Discord**: Participe de conversas, eventos e projetos colaborativos.  
+
+🔗 **Entre agora! 🚀**
+
 ## Indice
 
 * [Avatares](#avatares)
