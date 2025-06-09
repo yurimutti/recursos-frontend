@@ -7,7 +7,6 @@ Contribuições são bem-vindas! Se você conhece um recurso interessante, sinta
 ## 🚀 **Junte-se à nossa Comunidade!**
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GIrZlmjoAOqHMYeodJAcQs)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GwJzaaX7)
 
 ---
 
