@@ -314,6 +314,7 @@ Link | Descrição | Grátis |
 |---|---|---|
 | [Transform Tools](https://transform.tools/) | Um conversor de formatos poliglota | Sim  | Yes | No |
 | [SVG 2 JSX](https://svg2jsx.com/) | Converte seu arquivo SVG num componente React. | Sim | Yes | No |
+| [Nutilz](https://nutilz.com/) | 23 ferramentas gratuitas baseadas no navegador: formatador JSON, testador regex, conversores e calculadoras. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
