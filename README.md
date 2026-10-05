@@ -1,5 +1,7 @@
 ![Background do repositório](bg.jpg)
 
+> **Aviso:** Este projeto não recebe atualizações frequentes no momento.
+
 Este repositório reúne links úteis e recursos essenciais para desenvolvedores frontend. Aqui você encontrará referências de bibliotecas, frameworks, tutoriais, ferramentas, e dicas que podem agilizar e aprimorar seu trabalho no desenvolvimento de interfaces. O objetivo é ser uma fonte prática de consulta para facilitar o aprendizado e o desenvolvimento de soluções frontend.
 
 Contribuições são bem-vindas! Se você conhece um recurso interessante, sinta-se à vontade para abrir um pull request.
