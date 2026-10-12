@@ -334,6 +334,7 @@ Link | Descrição | Grátis |
 | [Typechem](https://typechem.herokuapp.com) | Typechem é uma coleção de fontes escolhidas a dedo e pares de cores. | Sim | Yes | No |
 | [Systemfontstack](https://systemfontstack.com/) | Graças à criação e compra de fontes pela Apple, Microsoft, Google e outras pessoas, a maioria dos computadores tem boas - não, ótimo - fontes instaladas e são uma ótima opção se você não quiser carregar uma fonte separada. | Sim | Yes | No |
 | [Fonts In Use](https://fontsinuse.com/) | Um arquivo pesquisável de design tipográfico, indexado por tipo de letra, formato e tópico. | Sim | Yes | No |
+| [What Font Finder](https://whatfontfinder.com/) | Identifique a fonte a partir de uma imagem ou captura de tela e encontre alternativas gratuitas, com a licença de cada uma indicada. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
