@@ -59,6 +59,7 @@ Link | Descrição | Grátis |
 | [TinyPNG](https://tinypng.com/) | Compressão inteligente de PNG e JPEG | Sim | Yes | No |
 | [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/) | Comprima seus arquivos PNG / JPG em até 80% e mantenha total transparência | Sim | Yes | No |
 | [Squoosh](https://squoosh.app/) | Compressão de imagens para web em diversos formatos. | Sim | Yes | No |
+| [A Box of Tools](https://abox.tools/pt/) | Comprime JPEG, PNG ou WebP até um tamanho exato de arquivo (100 KB, 2 MB) direto no navegador, sem enviar nada para um servidor. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
