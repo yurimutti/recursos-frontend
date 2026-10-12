@@ -282,6 +282,7 @@ Link | Descrição | Grátis |
 |---|---|---|
 | [StackEdit](https://stackedit.io) | Você pode sincronizar seus arquivos com o Google Drive, Dropbox e GitHub. Ele também pode publicá-los como postagens de blog no Blogger, WordPress e Zendesk. | Sim | Yes | No |
 | [Typora](https://typora.io/) | Ele remove a janela de visualização, o alternador de modo, os símbolos de sintaxe do código-fonte do markdown. E fornece um recurso de visualização ao vivo. | Sim | Yes | No |
+| [PortalToolsGO](https://portaltoolsgo.com.br/devtools/markdown-para-html) | Converte Markdown para HTML, PDF ou o inverso (HTML para Markdown), com preview ao vivo, tudo rodando no navegador. Em português. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
