@@ -189,6 +189,7 @@ Link | Descrição | Grátis |
 | [CSS GG](https://css.gg/) | Ícones de interface de usuário CSS, SVG e Figma de código aberto. Disponível em SVG Sprite, componentes estilizados, NPM e API. | Sim | Yes | No |
 | [Eva Icons](https://akveo.github.io/eva-icons/) | Eva Icons é um pacote de mais de 480 ícones Open Source lindamente elaborados para ações e itens comuns. | Sim | Yes | No |
 | [Favicon Generator](https://realfavicongenerator.net) | Gere todos os ícones de que você precisa para navegadores de desktop, iPhone / iPad, dispositivos Android, dispositivos Windows 8 e muito mais. | Sim | Yes | No |
+| [FaviconDL](https://favicondl.com/) | Extraia e baixe o favicon (ICO/PNG/SVG/Apple touch) de qualquer site; API gratuita sem chave e preserva o tamanho original quando possível. | Sim | Yes | No |
 | [Feather](https://feathericons.com/) | Ícones de código aberto simplesmente lindos | Sim | Yes | No |
 | [Flaticon](https://www.flaticon.com) | Baixe gratuitamente ícones vetoriais e adesivos para seus projetos. Recursos feitos por e para designers. Formatos PNG, SVG, EPS, PSD e BASE 64. | Sim | Yes | No |
 | [Font Awesome](https://fontawesome.com) | Obtenha ícones vetoriais e logotipos sociais em seu site com Font Awesome, o conjunto de ícones e kit de ferramentas mais popular da web. | Sim | Yes | No |
