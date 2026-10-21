@@ -100,7 +100,7 @@ Link | Descrição | Grátis |
 | [Animista](https://animista.net/) | É um lugar onde você pod e brincar com uma coleção de animações CSS pré feitas, e obter somente as que você vai usar de verdade. | Sim | Yes | No |
 | [Autoprefixer](http://autoprefixer.github.io) | É um plugin PostCSS que analisa seu CSS e adiciona prefixos de fornecedores. | Sim | Yes | No |
 | [Bestcssbutton](https://www.bestcssbuttongenerator.com/) | É uma ferramenta online gratuita que permite criar estilos de botões HTML e CSS para vários navegadores. | Sim | Yes | No |
-| [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) | É uma ferramenta online gratuita para gerar gradientes, border radius, noise texture e box shadow. | Sim | Yes | No |
+| [Box Shadow CSS Generator](https://coddy.tech/tools/pt/box-shadow-generator) | É uma ferramenta online gratuita do Coddy para gerar box-shadow em CSS, com várias camadas e prévia ao vivo. | Sim | Yes | No |
 | [Calculadora de especificidade CSS](https://specificity.keegan.st) | Uma maneira visual de entender a especificidade do CSS. Altere os seletores ou cole os seus. | Sim | Yes | No |
 | [Can I Use](https://caniuse.com) | Fornece tabelas de suporte de navegador atualizadas para suporte de tecnologias front-end da web em navegadores de desktop e móveis. | Sim | Yes | No |
 | [Clip-path converter](https://yoksel.github.io/relative-clip-path/) | O conversor está apenas preparando o caminho SVG para ser usado no caminho do clipe CSS. | Sim | Yes | No |
