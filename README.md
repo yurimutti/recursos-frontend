@@ -56,6 +56,7 @@ Link | Descrição | Grátis |
 ## <a name="compressor-imagens"></a>Compressor de imagens
 Link | Descrição | Grátis |
 |---|---|---|
+| [ImgFlow](https://imgflow.taoliapp.com/en/) | Compressor e conversor de imagens no navegador (PNG/JPG/HEIC/WebP/AVIF); processamento local | Sim | Yes | No |
 | [TinyPNG](https://tinypng.com/) | Compressão inteligente de PNG e JPEG | Sim | Yes | No |
 | [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/) | Comprima seus arquivos PNG / JPG em até 80% e mantenha total transparência | Sim | Yes | No |
 | [Squoosh](https://squoosh.app/) | Compressão de imagens para web em diversos formatos. | Sim | Yes | No |
