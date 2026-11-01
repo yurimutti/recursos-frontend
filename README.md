@@ -315,6 +315,7 @@ Link | Descrição | Grátis |
 Link | Descrição | Grátis |
 |---|---|---|
 | [Transform Tools](https://transform.tools/) | Um conversor de formatos poliglota | Sim  | Yes | No |
+| [Pic2SVG SVG checker](https://pic2svg.com/svg-cut-file-checker/) | Inspect image elements, live text, open outlines and physical dimensions in a local SVG file. | Yes |
 | [SVG 2 JSX](https://svg2jsx.com/) | Converte seu arquivo SVG num componente React. | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
