@@ -59,6 +59,7 @@ Link | Descrição | Grátis |
 | [TinyPNG](https://tinypng.com/) | Compressão inteligente de PNG e JPEG | Sim | Yes | No |
 | [websiteplanet](https://www.websiteplanet.com/webtools/imagecompressor/) | Comprima seus arquivos PNG / JPG em até 80% e mantenha total transparência | Sim | Yes | No |
 | [Squoosh](https://squoosh.app/) | Compressão de imagens para web em diversos formatos. | Sim | Yes | No |
+| [Quick Image Kit](https://quickimagekit.com/pt?utm_source=github&utm_medium=awesome_list&utm_campaign=recursos_frontend_pt) | Compressão, redimensionamento, conversão e corte de imagens no navegador, sem enviar o arquivo para um servidor | Sim | Yes | No |
 
 **[⬆ Voltar para o indice](#indice)**
 
