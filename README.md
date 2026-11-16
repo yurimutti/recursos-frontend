@@ -316,6 +316,7 @@ Link | Descrição | Grátis |
 |---|---|---|
 | [Transform Tools](https://transform.tools/) | Um conversor de formatos poliglota | Sim  | Yes | No |
 | [SVG 2 JSX](https://svg2jsx.com/) | Converte seu arquivo SVG num componente React. | Sim | Yes | No |
+| [HumanPen](https://humanpen.net) | Plataforma de IA para tradução de documentos (12 idiomas, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT preservando o layout), humanização em nível de documento (DOCX/PPTX/TXT), condensação (DOCX) e correção de citações (DOCX). | 100 créditos no cadastro |
 
 **[⬆ Voltar para o indice](#indice)**
 
